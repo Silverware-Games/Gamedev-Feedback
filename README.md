@@ -1,15 +1,13 @@
-# Matchy Star Issue Tracker
+# Gamedev Feedback
+Public repo for future Gamedev Feedback segments.
 
-Issue Tracker for Matchy Star
-
-Use https://github.com/Silverware-Games/matchy-star-issues/issues to submit an idea or a bug report. You should be signed into GitHub.
+Use https://github.com/Silverware-Games/Gamedev-Feedback/issues to submit a game for us to do feedback, you should be signed into GitHub. Or email michael@silverwaregames.com 
 
 Rules:
 
-* You must follow GitHub Community Guidelines.
-* The bug reports/ideas should be related to Matchy Star only.
-* It's up to us to decide whether (and when) accept the idea/bug report or not.
-* All vulnerabilities should be reported privately.
-* You must not use the Issue Tracker if you do not agree to any of the terms.
+* We make the final decision to cover a game or not.
+* Respectful criticue is the goal here, feel free to comment on our videos in a meaningful and constructive way, and we will do the same.
+* No game is perfect. If you think your game is perfect, then don't show it to us, we will have no feedback.
+* We may get to a point where we cannot cover all the games that come in, we hope to explain why we didn't cover something rather than just writing you off. Please reach out if you have questions.
 
-Discord: https://discord.silverwaregames.com (#matchy-star)
+Discord: https://discord.silverwaregames.com (#gamedev-feedback)
