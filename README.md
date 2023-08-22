@@ -1,7 +1,9 @@
 # Gamedev Feedback
 Public repo for future Gamedev Feedback segments.
 
-Use https://github.com/Silverware-Games/Gamedev-Feedback/issues to submit a game for us to do feedback, you should be signed into GitHub. Or email michael@silverwaregames.com 
+Use https://github.com/Silverware-Games/Gamedev-Feedback/issues to submit a game for us to do feedback, please link to the game as well as how we can reach you to get a key for the game. DO NOT POST THE GAME KEY PUBLICLY. You should be signed into GitHub. 
+
+Or you can always email michael@silverwaregames.com 
 
 # Rules:
 
