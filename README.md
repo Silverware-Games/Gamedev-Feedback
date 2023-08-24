@@ -25,8 +25,8 @@ Discord: https://discord.silverwaregames.com (#gamedev-feedback)
   Our longest GDF so far, game is like WoW or Diablo mowing down mobs. - Trying to get the audio levels better, more focus on our voices.
 * **[I Am The Darkness](https://youtu.be/IR23G7ImviQ)**:\
   Visual novel about waking up from some kind of VR prison.  - OBS froze on one screen, so I had to re-record this, also the ending was sort of weird because a menu popped up.
-* **[Potato Mash](https://youtu.be/ddaf3xM-vMU)**:\
-  (Round2): Boss fight involving a bunch of different stages and bad guys.  - Game loaded some progress I wasn't expecting.
+* **[Potato Mash (Round2)](https://youtu.be/ddaf3xM-vMU)**:\
+  Boss fight involving a bunch of different stages and bad guys.  - Game loaded some progress I wasn't expecting.
 * **[Another Fishing Game](https://youtu.be/BVVz3GvtiN0)**:\
   Early prototype of a fun, chill fishing sim. 
 * **[Potato Mash](https://www.youtube.com/watch?v=1lqPABVW5hQ)**:\
