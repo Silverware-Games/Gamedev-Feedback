@@ -31,7 +31,7 @@ Discord: https://discord.silverwaregames.com (#gamedev-feedback)
   Early prototype of a fun, chill fishing sim. 
 * **[Potato Mash](https://www.youtube.com/watch?v=1lqPABVW5hQ)**:\
   Different kind of game where you control a potato and mash it into walls and bad guys to move around. 
-* **[CatCatMan](https://youtu.be/BVVz3GvtiN0)**:\
+* **[CatCatMan](https://youtu.be/YWF-AGGJ3Xg)**:\
   First game of a strange "cat" game designer. Doesn't use text because "cats can't talk"  - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
 * **[Running Riot](https://youtu.be/Emxkyz-2y3M)**:\
   Mob control third person game where you mow down baddies. 
