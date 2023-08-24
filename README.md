@@ -23,7 +23,8 @@ The format for the titles of these videos is
 **GDF "Title of the Game" by @StudioHandle**
 
 # Completed videos:
-
+* **[Anima Flux](https://www.youtube.com/watch?v=Dd0IDfcsdX0)**\
+  First experiment with highly edited footage. 2D action game where you fight hoards of monsters. - Learning how to seperate our voices from the BGM of the game during recording.
 * **[Dwarven Realms](https://youtu.be/wm50DXsBwZo)**:\
   Our longest GDF so far, game is like WoW or Diablo mowing down mobs. - Trying to get the audio levels better, more focus on our voices.
 * **[I Am The Darkness](https://youtu.be/IR23G7ImviQ)**:\
