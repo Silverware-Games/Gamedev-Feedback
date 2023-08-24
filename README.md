@@ -21,13 +21,13 @@ Discord: https://discord.silverwaregames.com (#gamedev-feedback)
 
 # Completed videos:
 
-* Dwarven Realms https://youtu.be/wm50DXsBwZo - Trying to get the audio levels better, more focus on our voices.
-* I Am The Darkness https://youtu.be/IR23G7ImviQ - OBS froze on one screen, so I had to re-record this, also the ending was sort of weird because a menu popped up.
-* Potato Mash (Round2) https://youtu.be/ddaf3xM-vMU - Game loaded some progress I wasn't expecting.
-* Another Fishing Game https://youtu.be/BVVz3GvtiN0 - No major issues.
-* Potato Mash https://www.youtube.com/watch?v=1lqPABVW5hQ - No Major Issues.
-* CatCatMan https://youtu.be/BVVz3GvtiN0 - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
-* Running Riot https://youtu.be/Emxkyz-2y3M - No major issues.
+* Dwarven Realms: Our longest GDF so far, game is like WoW or Diablo mowing down mobs. https://youtu.be/wm50DXsBwZo - Trying to get the audio levels better, more focus on our voices.
+* I Am The Darkness: Visual novel about waking up from some kind of VR prison. https://youtu.be/IR23G7ImviQ - OBS froze on one screen, so I had to re-record this, also the ending was sort of weird because a menu popped up.
+* Potato Mash (Round2): Boss fight involving a bunch of different stages and bad guys. https://youtu.be/ddaf3xM-vMU - Game loaded some progress I wasn't expecting.
+* Another Fishing Game: Early prototype of a fun, chill fishing sim. https://youtu.be/BVVz3GvtiN0
+* Potato Mash: Different kind of game where you control a potato and mash it into walls and bad guys to move around. https://www.youtube.com/watch?v=1lqPABVW5hQ
+* CatCatMan: First game of a strange "cat" game designer. Doesn't use text because "cats can't talk" https://youtu.be/BVVz3GvtiN0 - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
+* Running Riot: Mob control third person game where you mow down baddies. https://youtu.be/Emxkyz-2y3M
 * Passing Into Fantasy https://youtu.be/hJnkC8FQqS8 - Youtube struck me for nudity even though the game had only pixelated nudity.
 * Monster Factory https://youtu.be/TP9h2VIR9TM - No major Issues.
 * Uraine https://youtu.be/jieS0QDtJO0 - Needs thumbnail.
