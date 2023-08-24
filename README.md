@@ -19,6 +19,9 @@ Or you can always email michael@silverwaregames.com
 
 Discord: https://discord.silverwaregames.com (#gamedev-feedback)
 
+The format for the titles of these videos is
+**GDF "Title of the Game" by @StudioHandle**
+
 # Completed videos:
 
 * **[Dwarven Realms](https://youtu.be/wm50DXsBwZo)**:\
