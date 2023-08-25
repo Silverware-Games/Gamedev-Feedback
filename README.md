@@ -23,6 +23,8 @@ The format for the titles of these videos is
 **GDF "Title of the Game" by @StudioHandle**
 
 # Completed videos:
+* **[CatCatMan (REMASTERED)](https://youtu.be/YWF-AGGJ3Xg)**:\
+  ** Better framing and audio in this version! ** First game of a strange "cat" game designer. Doesn't use text because "cats can't talk"  - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
 * **[Anima Flux](https://www.youtube.com/watch?v=Dd0IDfcsdX0)**\
   First experiment with highly edited footage. 2D action game where you fight hoards of monsters. - Learning how to seperate our voices from the BGM of the game during recording.
 * **[Dwarven Realms](https://youtu.be/wm50DXsBwZo)**:\
@@ -36,7 +38,7 @@ The format for the titles of these videos is
 * **[Potato Mash](https://www.youtube.com/watch?v=1lqPABVW5hQ)**:\
   Different kind of game where you control a potato and mash it into walls and bad guys to move around. 
 * **[CatCatMan](https://youtu.be/YWF-AGGJ3Xg)**:\
-  First game of a strange "cat" game designer. Doesn't use text because "cats can't talk"  - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
+  ** NOW UNLISTED ** First game of a strange "cat" game designer. Doesn't use text because "cats can't talk"  - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
 * **[Running Riot](https://youtu.be/Emxkyz-2y3M)**:\
   Mob control third person game where you mow down baddies. 
 * **[Passing Into Fantasy](https://youtu.be/hJnkC8FQqS8)**:\
