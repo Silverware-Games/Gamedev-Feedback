@@ -24,7 +24,7 @@ The format for the titles of these videos is
 
 # Completed videos:
 * **[CatCatMan (REMASTERED)](https://youtu.be/YWF-AGGJ3Xg)**:\
-  **Better framing and audio in this version!** First game of a strange "cat" game designer. Doesn't use text because "cats can't talk"  - May re-upload with better thumbnail and zoom in on game window. Needs Thumbnail.
+  **Better framing and audio in this version!** First game of a strange "cat" game designer. Doesn't use text because "cats can't talk" 
 * **[Anima Flux](https://www.youtube.com/watch?v=Dd0IDfcsdX0)**\
   First experiment with highly edited footage. 2D action game where you fight hoards of monsters. - Learning how to seperate our voices from the BGM of the game during recording.
 * **[Dwarven Realms](https://youtu.be/wm50DXsBwZo)**:\
