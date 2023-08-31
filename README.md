@@ -21,6 +21,8 @@ The format for the titles of these videos is
 **GDF "Title of the Game" by @StudioHandle**
 
 # Completed videos:
+* **[Odyssey of Dremid’ir](https://youtu.be/NvhJ95NtSW4)**\
+  Great visual style for a JRPG about bringing back the gods to a forsaken land. We did a lot more video color correcting and audio processing for this one.
 * **[CatCatMan (REMASTERED)](https://youtu.be/YWF-AGGJ3Xg)**:\
   **Better framing and audio in this version!** First game of a strange "cat" game designer. Doesn't use text because "cats can't talk" 
 * **[Anima Flux](https://www.youtube.com/watch?v=Dd0IDfcsdX0)**\
