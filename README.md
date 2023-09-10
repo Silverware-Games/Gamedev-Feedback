@@ -17,8 +17,10 @@ Or you can always email michael@silverwaregames.com
 
 Discord: https://discord.silverwaregames.com (#gamedev-feedback)
 
-The format for the titles of these videos is
-**GDF "Title of the Game" by @StudioHandle**
+# Titles, Thumbnails, and Viewership
+
+We want these videos to get seen. These are videos made by small indie creators with love and we want their games to get an audience. Also we want our channel to get viewers, everyone wins. In order to get this to work, we are using ... dun dun duhh ... "Best Practices." That means we are creating thumbnails with AI that have big faces with open mouths and text on them, as well as using AI to generate titles that will get people to click on the videos. If you have suggestions on how to beat the algorithm let us know.
+
 
 # Completed videos:
 * **[Lindwyrm](https://youtu.be/qT11o6KOvPo)**\
