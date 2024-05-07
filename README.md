@@ -27,7 +27,7 @@ We want these videos to get seen. These are videos made by small indie creators 
   Well made ARPG. 
 * **[Odyssey of Dremid’ir](https://youtu.be/NvhJ95NtSW4)**\
   Great visual style for a JRPG about bringing back the gods to a forsaken land. We did a lot more video color correcting and audio processing for this one.
-* **[CatCatMan (REMASTERED)](https://youtu.be/YWF-AGGJ3Xg)**:\
+* **[CatCatMan (REMASTERED)](https://www.youtube.com/watch?v=xhG96ML8SIU)**:\
   **Better framing and audio in this version!** First game of a strange "cat" game designer. Doesn't use text because "cats can't talk" 
 * **[Anima Flux](https://www.youtube.com/watch?v=Dd0IDfcsdX0)**\
   First experiment with highly edited footage. 2D action game where you fight hoards of monsters. - Learning how to seperate our voices from the BGM of the game during recording.
