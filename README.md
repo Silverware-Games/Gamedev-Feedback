@@ -1,6 +1,9 @@
 # Gamedev Feedback
 Our goal is to provide meaningful honest feedback to games that are still being developed so that devs can find UI/UX things to improve and change as well as new potential features. If we get stuck, we get stuck, I can't say we'll figure out everything, but if we do get lost it might help you figure out how to make your game easier to understand for n00b players like us!
 
+<img width="1280" height="640" alt="GDFThumb" src="https://github.com/user-attachments/assets/30d778db-fc00-4e4c-8dbb-f10fbf94f3e5" />
+
+
 We also hope to showcase your game so it becomes a hit! Currently we can only cover PC/iOS games without VR. Sorry. This is a public repo for future Gamedev Feedback segments where future segements are listed in the "issues" section.
 
 Use https://github.com/Silverware-Games/Gamedev-Feedback/issues to submit a game for us to do feedback, please link to the game as well as how we can reach you to get a key for the game. DO NOT POST THE GAME KEY PUBLICLY. You should be signed into GitHub. 
