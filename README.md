@@ -64,7 +64,7 @@ We want these videos to get seen. These are videos made by small indie creators 
 18) **[Betty and Earl](https://youtu.be/fFeKsX7kgQc)**:\
   Lovely minimal sokoban box pushing puzzler. - Needs Thumbnail.
 19) **[Concept Coaster Craft 2](https://youtu.be/qzj40rvPROc)**:\
-  Lovely minimal sokoban box pushing puzzler. - Needs Thumbnail.
+  Detailed Coaster Building SIM
 20) **[Potato Mash](https://www.youtube.com/watch?v=1lqPABVW5hQ)**:\
   Different kind of game where you control a potato and mash it into walls and bad guys to move around. 
 21) **[Cozy Holes](https://youtu.be/LUy9cFh5BoY)**:\
